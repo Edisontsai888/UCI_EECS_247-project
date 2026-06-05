@@ -1,9 +1,9 @@
-EECS 247 Project — Implementing ALTO
+#EECS 247 Project — Implementing ALTO
 Python implementation of the ALTO (Adaptive Linearized Storage of Sparse Tensors) format, based on Helal et al., ICS '21.
-What this implements
+##What this implements
 
-ALTO encoding and decoding
-COO baseline format
+-ALTO encoding and decoding
+-COO baseline format
 Sequential MTTKRP for both COO and ALTO
 Storage comparison and timing evaluation on the DARPA dataset
 
